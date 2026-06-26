@@ -1,0 +1,11 @@
+{
+  "name": "ink-game",
+  "version": "1.0.0",
+  "description": "INK multiplayer game — Vercel serverless + Ably",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "ably": "^2.3.1"
+  }
+}
